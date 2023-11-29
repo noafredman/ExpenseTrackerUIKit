@@ -1,0 +1,1102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D61E3B76-0426-41D0-8324-626DD1703C8B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF45A37E-5505-4385-AF69-D021412EA855"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpenseTracking/View/ExpenseFormViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "269"
+            endingLineNumber = "269"
+            landmarkName = "textFieldShouldClear(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FF45A37E-5505-4385-AF69-D021412EA855 - 9b07f2c4460f7d2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.ExpenseFormViewController.textFieldShouldClear(__C.UITextField) -&gt; Swift.Bool"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/View/ExpenseFormViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "266"
+                  endingLineNumber = "266"
+                  offsetFromSymbolStart = "616">
+               </Location>
+               <Location
+                  uuid = "FF45A37E-5505-4385-AF69-D021412EA855 - 9b07f2c4460f7d2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.ExpenseFormViewController.textFieldShouldClear(__C.UITextField) -&gt; Swift.Bool"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/View/ExpenseFormViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "266"
+                  endingLineNumber = "266"
+                  offsetFromSymbolStart = "604">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FAEBE828-FFF3-4B38-8E40-9DCD5BCD783A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpenseTracking/View/ExpenseFormViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "180"
+            endingLineNumber = "180"
+            landmarkName = "setSaveButtonViewEnabled()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FAEBE828-FFF3-4B38-8E40-9DCD5BCD783A - b528984f4cffe864"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.ExpenseFormViewController.setSaveButtonViewEnabled() -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/View/ExpenseFormViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "177"
+                  endingLineNumber = "177"
+                  offsetFromSymbolStart = "2944">
+               </Location>
+               <Location
+                  uuid = "FAEBE828-FFF3-4B38-8E40-9DCD5BCD783A - b528984f4cffe864"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.ExpenseFormViewController.setSaveButtonViewEnabled() -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/View/ExpenseFormViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "177"
+                  endingLineNumber = "177"
+                  offsetFromSymbolStart = "2724">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7DD835AC-EC90-4104-8092-A9B023E4E65E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpenseTracking/View/ExpenseFormViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "setSaveButtonViewEnabled()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7DD835AC-EC90-4104-8092-A9B023E4E65E - b528984f4cffe8cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.ExpenseFormViewController.setSaveButtonViewEnabled() -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/View/ExpenseFormViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "172"
+                  endingLineNumber = "172"
+                  offsetFromSymbolStart = "2160">
+               </Location>
+               <Location
+                  uuid = "7DD835AC-EC90-4104-8092-A9B023E4E65E - b528984f4cffe8cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.ExpenseFormViewController.setSaveButtonViewEnabled() -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/View/ExpenseFormViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "172"
+                  endingLineNumber = "172"
+                  offsetFromSymbolStart = "1940">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D9BF0D1-ACD1-458C-BF6C-C645EE292B89"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpenseTracking/View/ExpenseFormViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "174"
+            endingLineNumber = "174"
+            landmarkName = "setSaveButtonViewEnabled()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6D9BF0D1-ACD1-458C-BF6C-C645EE292B89 - b528984f4cffeb2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.ExpenseFormViewController.setSaveButtonViewEnabled() -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/View/ExpenseFormViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "171"
+                  endingLineNumber = "171"
+                  offsetFromSymbolStart = "1940">
+               </Location>
+               <Location
+                  uuid = "6D9BF0D1-ACD1-458C-BF6C-C645EE292B89 - b528984f4cffeb2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.ExpenseFormViewController.setSaveButtonViewEnabled() -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/View/ExpenseFormViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "171"
+                  endingLineNumber = "171"
+                  offsetFromSymbolStart = "1672">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "071C20BC-3AA1-4681-B12D-ADC1D348F361"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpenseTracking/View/ExpenseFormViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "259"
+            endingLineNumber = "259"
+            landmarkName = "textFieldDidBeginEditing(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "071C20BC-3AA1-4681-B12D-ADC1D348F361 - 788544ec77839f0c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.ExpenseFormViewController.textFieldDidBeginEditing(__C.UITextField) -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/View/ExpenseFormViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "256"
+                  endingLineNumber = "256"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "071C20BC-3AA1-4681-B12D-ADC1D348F361 - 788544ec77839f0c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.ExpenseFormViewController.textFieldDidBeginEditing(__C.UITextField) -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/View/ExpenseFormViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "256"
+                  endingLineNumber = "256"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "515F4888-CDDF-491D-AAC3-2B55B4111065"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpenseTracking/View/ExpenseFormViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "setup()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "019FD620-9419-4349-9417-F52752CCD99D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpenseTracking/View/ExpenseFormViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "343"
+            endingLineNumber = "343"
+            landmarkName = "sheetPresentationControllerDidChangeSelectedDetentIdentifier(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C2DD250-21CB-4703-8C72-67EA1170F470"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpenseTracking/View/ExpenseFormViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "339"
+            endingLineNumber = "339"
+            landmarkName = "sheetPresentationControllerDidChangeSelectedDetentIdentifier(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1C2DD250-21CB-4703-8C72-67EA1170F470 - 7a9f8792a146ce1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.ExpenseFormViewController.sheetPresentationControllerDidChangeSelectedDetentIdentifier(__C.UISheetPresentationController) -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/View/ExpenseFormViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "336"
+                  endingLineNumber = "336"
+                  offsetFromSymbolStart = "656">
+               </Location>
+               <Location
+                  uuid = "1C2DD250-21CB-4703-8C72-67EA1170F470 - 9530bc4b4d0b960b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in ExpenseTracking.ExpenseFormViewController.sheetPresentationControllerDidChangeSelectedDetentIdentifier(__C.UISheetPresentationController) -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/View/ExpenseFormViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "336"
+                  endingLineNumber = "336"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C50554B-ED1C-4FFE-B313-34FB3E88D881"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpenseTracking/View/ExpenseFormViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "335"
+            endingLineNumber = "335"
+            landmarkName = "sheetPresentationControllerDidChangeSelectedDetentIdentifier(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0C50554B-ED1C-4FFE-B313-34FB3E88D881 - 7a9f8792a146cf9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.ExpenseFormViewController.sheetPresentationControllerDidChangeSelectedDetentIdentifier(__C.UISheetPresentationController) -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/View/ExpenseFormViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "332"
+                  endingLineNumber = "332"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "0C50554B-ED1C-4FFE-B313-34FB3E88D881 - ec05a07ee9e76e4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in ExpenseTracking.ExpenseFormViewController.sheetPresentationControllerDidChangeSelectedDetentIdentifier(__C.UISheetPresentationController) -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/View/ExpenseFormViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "332"
+                  endingLineNumber = "332"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E87B7C0C-D7EA-4518-A5E2-1BF2009D9C1C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpenseTracking/View/ProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "879A6C99-C7BF-4D73-8E53-867052B23484"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpenseTracking/View/ProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FFB8666E-E2FC-4F1F-9582-69E86C688D0D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpenseTracking/View/ProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "signOutClicked(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FFB8666E-E2FC-4F1F-9582-69E86C688D0D - 425c13325ecf6f5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.ProfileViewController.signOutClicked(Any) -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/View/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "1360">
+               </Location>
+               <Location
+                  uuid = "FFB8666E-E2FC-4F1F-9582-69E86C688D0D - 425c13325ecf6f5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.ProfileViewController.signOutClicked(Any) -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/View/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "1044">
+               </Location>
+               <Location
+                  uuid = "FFB8666E-E2FC-4F1F-9582-69E86C688D0D - 425c13325ecf6f5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.ProfileViewController.signOutClicked(Any) -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/View/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "1300">
+               </Location>
+               <Location
+                  uuid = "FFB8666E-E2FC-4F1F-9582-69E86C688D0D - 425c13325ecf6f5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.ProfileViewController.signOutClicked(Any) -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/View/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "1472">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E5C2AC2-20F1-416D-A9A5-E50A230E0F78"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpenseTracking/View/ProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "signOutClicked(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4E5C2AC2-20F1-416D-A9A5-E50A230E0F78 - 425c13325ecf6f1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.ProfileViewController.signOutClicked(Any) -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/View/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "1360">
+               </Location>
+               <Location
+                  uuid = "4E5C2AC2-20F1-416D-A9A5-E50A230E0F78 - 425c13325ecf6f1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.ProfileViewController.signOutClicked(Any) -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/View/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "1228">
+               </Location>
+               <Location
+                  uuid = "4E5C2AC2-20F1-416D-A9A5-E50A230E0F78 - 425c13325ecf6f1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.ProfileViewController.signOutClicked(Any) -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/View/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "1484">
+               </Location>
+               <Location
+                  uuid = "4E5C2AC2-20F1-416D-A9A5-E50A230E0F78 - 425c13325ecf6f1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.ProfileViewController.signOutClicked(Any) -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/View/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "1656">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3C1DCB0-370B-431D-8205-97273B8329D3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpenseTracking/View/ProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "signOutClicked(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B3C1DCB0-370B-431D-8205-97273B8329D3 - 425c13325ecf6804"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.ProfileViewController.signOutClicked(Any) -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/View/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "796">
+               </Location>
+               <Location
+                  uuid = "B3C1DCB0-370B-431D-8205-97273B8329D3 - 425c13325ecf6804"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.ProfileViewController.signOutClicked(Any) -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/View/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "664">
+               </Location>
+               <Location
+                  uuid = "B3C1DCB0-370B-431D-8205-97273B8329D3 - 425c13325ecf6804"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.ProfileViewController.signOutClicked(Any) -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/View/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "896">
+               </Location>
+               <Location
+                  uuid = "B3C1DCB0-370B-431D-8205-97273B8329D3 - 425c13325ecf6804"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.ProfileViewController.signOutClicked(Any) -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/View/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "968">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59E8969D-2A9A-4132-B7F8-9A396DA045DB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpenseTracking/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "rootVC()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "798EAED8-368A-434D-835F-6C218BD2C309"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpenseTracking/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "rootVC()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1DF7C7F-E389-4D9E-98D7-2707661D9A51"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpenseTracking/Model/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "handleLogin(userInfo:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B1DF7C7F-E389-4D9E-98D7-2707661D9A51 - 5b2c91756bd8548a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.DataManager.handleLogin(userInfo: ExpenseTracking.UserInfo) throws -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/Model/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "2036">
+               </Location>
+               <Location
+                  uuid = "B1DF7C7F-E389-4D9E-98D7-2707661D9A51 - 5b2c91756bd8548a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.DataManager.handleLogin(userInfo: ExpenseTracking.UserInfo) throws -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/Model/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "1832">
+               </Location>
+               <Location
+                  uuid = "B1DF7C7F-E389-4D9E-98D7-2707661D9A51 - 5b2c91756bd8548a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.DataManager.handleLogin(userInfo: ExpenseTracking.UserInfo) throws -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/Model/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "1828">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88876403-42EA-46A5-95D7-DB4AFFA7CCE4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpenseTracking/Model/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "handleLogin(userInfo:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "88876403-42EA-46A5-95D7-DB4AFFA7CCE4 - 5b2c91756bd85392"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.DataManager.handleLogin(userInfo: ExpenseTracking.UserInfo) throws -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/Model/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "4096">
+               </Location>
+               <Location
+                  uuid = "88876403-42EA-46A5-95D7-DB4AFFA7CCE4 - 5b2c91756bd85392"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.DataManager.handleLogin(userInfo: ExpenseTracking.UserInfo) throws -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/Model/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "4048">
+               </Location>
+               <Location
+                  uuid = "88876403-42EA-46A5-95D7-DB4AFFA7CCE4 - 5b2c91756bd85392"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.DataManager.handleLogin(userInfo: ExpenseTracking.UserInfo) throws -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/Model/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "3988">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F5E80B8-C1B6-4B80-8231-010361210AB9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpenseTracking/Model/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "getCurrentUserName()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0F5E80B8-C1B6-4B80-8231-010361210AB9 - 4d90503292e2a3b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.DataManager.getCurrentUserName() -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/Model/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "588">
+               </Location>
+               <Location
+                  uuid = "0F5E80B8-C1B6-4B80-8231-010361210AB9 - 4d90503292e2a3b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.DataManager.getCurrentUserName() -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/Model/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "436">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A8B38D9-1123-46A7-9E55-FB31A44B895A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpenseTracking/Model/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "getCurrentUserName()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0A8B38D9-1123-46A7-9E55-FB31A44B895A - 4d90503292e2a3fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.DataManager.getCurrentUserName() -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/Model/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "420">
+               </Location>
+               <Location
+                  uuid = "0A8B38D9-1123-46A7-9E55-FB31A44B895A - 4d90503292e2a3fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.DataManager.getCurrentUserName() -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/Model/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "388">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D676A30-5DBA-4059-A718-00EE92F0124E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpenseTracking/ViewModel/ProfileViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "logout()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D99E2AC7-2417-4B49-8E86-3AFC0C564D33"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpenseTracking/Model/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "handleLogout()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D99E2AC7-2417-4B49-8E86-3AFC0C564D33 - 59027726e125b08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.DataManager.handleLogout() -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/Model/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "D99E2AC7-2417-4B49-8E86-3AFC0C564D33 - 59027726e125b29"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.DataManager.handleLogout() -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/Model/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A97946A0-35D3-435F-A688-2010AC30E923"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpenseTracking/View/ProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "signOutClicked(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A97946A0-35D3-435F-A688-2010AC30E923 - 425c13325ecf6899"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.ProfileViewController.signOutClicked(Any) -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/View/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "840">
+               </Location>
+               <Location
+                  uuid = "A97946A0-35D3-435F-A688-2010AC30E923 - 425c13325ecf6899"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.ProfileViewController.signOutClicked(Any) -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/View/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1096">
+               </Location>
+               <Location
+                  uuid = "A97946A0-35D3-435F-A688-2010AC30E923 - 425c13325ecf6899"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.ProfileViewController.signOutClicked(Any) -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/View/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1268">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21920729-4D49-4305-ACDD-8F08659E2662"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpenseTracking/Model/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "handleLogin(userInfo:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "21920729-4D49-4305-ACDD-8F08659E2662 - 5b2c91756bd8523d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.DataManager.handleLogin(userInfo: ExpenseTracking.UserInfo) throws -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/Model/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "3312">
+               </Location>
+               <Location
+                  uuid = "21920729-4D49-4305-ACDD-8F08659E2662 - 5b2c91756bd8523d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.DataManager.handleLogin(userInfo: ExpenseTracking.UserInfo) throws -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/Model/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "2968">
+               </Location>
+               <Location
+                  uuid = "21920729-4D49-4305-ACDD-8F08659E2662 - 5b2c91756bd8523d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpenseTracking.DataManager.handleLogin(userInfo: ExpenseTracking.UserInfo) throws -&gt; ()"
+                  moduleName = "ExpenseTracking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/noafredman/Documents/ExpenseTrackingSwiftWIP/ExpenseTracking/ExpenseTracking/Model/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "2912">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A5C6D201-B98A-480C-8C19-DFCACC0C9E0D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpenseTracking/ViewModel/ExpenseFormViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "init(dataManager:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

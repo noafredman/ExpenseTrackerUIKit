@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21679"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="TwoButtonView" customModule="ExpenseTracking" customModuleProvider="target">
+            <connections>
+                <outlet property="leftButton" destination="8ol-76-qPN" id="1LR-jt-pC0"/>
+                <outlet property="mainView" destination="ScC-XV-SM8" id="OQQ-h2-8kQ"/>
+                <outlet property="rightButton" destination="j3N-gr-NHm" id="ZXV-jt-mxc"/>
+                <outlet property="stackView" destination="6pw-LG-Cy3" id="xiM-I3-9P2"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="ScC-XV-SM8">
+            <rect key="frame" x="0.0" y="0.0" width="393" height="62"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <stackView opaque="NO" contentMode="scaleToFill" spacing="100" translatesAutoresizingMaskIntoConstraints="NO" id="6pw-LG-Cy3">
+                    <rect key="frame" x="46.666666666666657" y="0.0" width="300" height="62"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8ol-76-qPN">
+                            <rect key="frame" x="0.0" y="0.0" width="100" height="62"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="100" id="CuX-TO-M8t"/>
+                            </constraints>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            <state key="normal" image="pencil.tip.crop.circle" catalog="system"/>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="j3N-gr-NHm">
+                            <rect key="frame" x="200" y="0.0" width="100" height="62"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="100" id="MYC-oH-clm"/>
+                            </constraints>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            <state key="normal" image="bin.xmark" catalog="system"/>
+                        </button>
+                    </subviews>
+                </stackView>
+            </subviews>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="6pw-LG-Cy3" secondAttribute="bottom" id="8FJ-lK-XKR"/>
+                <constraint firstItem="6pw-LG-Cy3" firstAttribute="top" secondItem="ScC-XV-SM8" secondAttribute="top" id="Eeh-ZJ-0y8"/>
+                <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="6pw-LG-Cy3" secondAttribute="trailing" id="dDs-7H-VVT"/>
+                <constraint firstItem="6pw-LG-Cy3" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="ScC-XV-SM8" secondAttribute="leading" id="j5x-hu-Qa2"/>
+                <constraint firstItem="6pw-LG-Cy3" firstAttribute="centerX" secondItem="ScC-XV-SM8" secondAttribute="centerX" id="tUE-De-Q5Q"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="-112" y="-182"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="bin.xmark" catalog="system" width="128" height="92"/>
+        <image name="pencil.tip.crop.circle" catalog="system" width="128" height="123"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

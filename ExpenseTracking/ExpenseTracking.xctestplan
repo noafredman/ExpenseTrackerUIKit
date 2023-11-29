@@ -1,0 +1,37 @@
+{
+  "configurations" : [
+    {
+      "id" : "45B1F259-8189-4D5F-AB54-EC95D9F398EC",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:ExpenseTracking.xcodeproj",
+      "identifier" : "56C1ECBE2A6E818D00E2B809",
+      "name" : "ExpenseTracking"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:ExpenseTracking.xcodeproj",
+        "identifier" : "56C1ECD72A6E818E00E2B809",
+        "name" : "ExpenseTrackingTests"
+      }
+    },
+    {
+      "enabled" : false,
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:ExpenseTracking.xcodeproj",
+        "identifier" : "56C1ECE12A6E818E00E2B809",
+        "name" : "ExpenseTrackingUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
